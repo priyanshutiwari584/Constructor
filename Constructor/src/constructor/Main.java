@@ -1,4 +1,4 @@
-package Hii;
+package constructor;
 
 /*
  * A constructor is a block of code similar to the method.
